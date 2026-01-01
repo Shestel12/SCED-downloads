@@ -1,4 +1,5 @@
 {
+  "CardID": 537418,
   "CustomDeck": {
     "5374": {
       "BackIsHidden": true,
@@ -10,7 +11,7 @@
     }
   },
   "Description": "Существо. Монстр. Мутант.",
-  "GMNotes": "{\n  \"id\": \"10648\"\n}",
+  "GMNotes": "{\n  \"id\": \"10648a\"\n}",
   "GUID": "724a1e",
   "Name": "Card",
   "Nickname": "Скользящий гибрид",

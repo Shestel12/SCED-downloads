@@ -6,7 +6,7 @@ PATHS = {
     "decomposed": "./decomposed",
     "library": "./library.json",
     "moddir": "./SCED",
-    "modexec": "./TTSModManager-Linux",
+    "modexec": "./TTSModManager.exe",
     "output": "./.build",
 }
 
@@ -16,7 +16,7 @@ def resolve(path):
 
 
 def read_library():
-    with open(resolve(PATHS["library"])) as f:
+    with open(resolve(PATHS["library"]), encoding="utf8") as f:
         data = json.load(f)
     return data["content"]
 

@@ -27924,7 +27924,7 @@
                 }
               },
               "Description": "Creature. Monster. Mutated.",
-              "GMNotes": "{\n  \"id\": \"10648\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10648b\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
               "GUID": "b76325",
               "Name": "Card",
               "Nickname": "Slithering Hybrid",
@@ -27952,7 +27952,7 @@
                 }
               },
               "Description": "Creature. Monster. Mutated.",
-              "GMNotes": "{\n  \"id\": \"10648\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10648a\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
               "GUID": "724a1e",
               "Name": "Card",
               "Nickname": "Slithering Hybrid",
@@ -27980,7 +27980,7 @@
                 }
               },
               "Description": "Creature. Monster. Mutated.",
-              "GMNotes": "{\n  \"id\": \"10647\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10647c\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
               "GUID": "f9d0c6",
               "Name": "Card",
               "Nickname": "Equine Hybrid",
@@ -28008,7 +28008,7 @@
                 }
               },
               "Description": "Creature. Monster. Mutated.",
-              "GMNotes": "{\n  \"id\": \"10647\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10647b\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
               "GUID": "b61713",
               "Name": "Card",
               "Nickname": "Equine Hybrid",
@@ -28036,7 +28036,7 @@
                 }
               },
               "Description": "Creature. Monster. Mutated.",
-              "GMNotes": "{\n  \"id\": \"10647\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10647a\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
               "GUID": "4af075",
               "Name": "Card",
               "Nickname": "Equine Hybrid",
@@ -28064,7 +28064,7 @@
                 }
               },
               "Description": "Creature. Monster. Mutated. Elite.",
-              "GMNotes": "{\n  \"id\": \"10646\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated. Elite.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10646b\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated. Elite.\"\n}",
               "GUID": "926629",
               "Name": "Card",
               "Nickname": "Capra Hybrid",
@@ -28092,7 +28092,7 @@
                 }
               },
               "Description": "Creature. Monster. Mutated. Elite.",
-              "GMNotes": "{\n  \"id\": \"10646\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated. Elite.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10646c\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated. Elite.\"\n}",
               "GUID": "bbe239",
               "Name": "Card",
               "Nickname": "Capra Hybrid",
@@ -28120,7 +28120,7 @@
                 }
               },
               "Description": "Creature. Monster. Mutated. Elite.",
-              "GMNotes": "{\n  \"id\": \"10646\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated. Elite.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10646a\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated. Elite.\"\n}",
               "GUID": "78b879",
               "Name": "Card",
               "Nickname": "Capra Hybrid",
@@ -28148,7 +28148,7 @@
                 }
               },
               "Description": "Creature. Monster. Mutated. Elite.",
-              "GMNotes": "{\n  \"id\": \"10645\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated. Elite.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10645c\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated. Elite.\"\n}",
               "GUID": "9b983c",
               "Name": "Card",
               "Nickname": "Lupine Hybrid",
@@ -28176,7 +28176,7 @@
                 }
               },
               "Description": "Creature. Monster. Mutated. Elite.",
-              "GMNotes": "{\n  \"id\": \"10645\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated. Elite.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10645b\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated. Elite.\"\n}",
               "GUID": "208268",
               "Name": "Card",
               "Nickname": "Lupine Hybrid",
@@ -28204,7 +28204,7 @@
                 }
               },
               "Description": "Creature. Monster. Mutated. Elite.",
-              "GMNotes": "{\n  \"id\": \"10645\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated. Elite.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10645a\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated. Elite.\"\n}",
               "GUID": "0bfbb4",
               "Name": "Card",
               "Nickname": "Lupine Hybrid",
@@ -28232,7 +28232,7 @@
                 }
               },
               "Description": "Creature. Monster. Hybrid.",
-              "GMNotes": "{\n  \"id\": \"10744\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10644c\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
               "GUID": "fe0dcd",
               "Name": "Card",
               "Nickname": "Molting Hybrid",
@@ -28260,7 +28260,7 @@
                 }
               },
               "Description": "Creature. Monster. Hybrid.",
-              "GMNotes": "{\n  \"id\": \"10744\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10644b\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
               "GUID": "aacf39",
               "Name": "Card",
               "Nickname": "Molting Hybrid",
@@ -28288,7 +28288,7 @@
                 }
               },
               "Description": "Creature. Monster. Hybrid.",
-              "GMNotes": "{\n  \"id\": \"10744\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
+              "GMNotes": "{\n  \"id\": \"10644a\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster. Mutated.\"\n}",
               "GUID": "a52bfe",
               "Name": "Card",
               "Nickname": "Molting Hybrid",
@@ -34092,7 +34092,7 @@
                 }
               },
               "Description": "Rail.",
-              "GMNotes": "{\n  \"id\": \"10515\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "{\n  \"id\": \"10515a\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "GUID": "67cabd",
               "Name": "Card",
               "Nickname": "Rail Tunnel",
@@ -34123,7 +34123,7 @@
                 }
               },
               "Description": "Rail.",
-              "GMNotes": "{\n  \"id\": \"10515\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "{\n  \"id\": \"10515b\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "GUID": "7e7b9a",
               "Name": "Card",
               "Nickname": "Rail Tunnel",
@@ -34153,7 +34153,7 @@
                 }
               },
               "Description": "Rail.",
-              "GMNotes": "{\n  \"id\": \"10515\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "{\n  \"id\": \"10515c\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "GUID": "e81973",
               "Name": "Card",
               "Nickname": "Rail Tunnel",
@@ -34184,7 +34184,7 @@
                 }
               },
               "Description": "Rail.",
-              "GMNotes": "{\n  \"id\": \"10514\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "{\n  \"id\": \"10514b\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "GUID": "053deb",
               "Name": "Card",
               "Nickname": "Rail Tunnel",
@@ -34214,7 +34214,7 @@
                 }
               },
               "Description": "Rail.",
-              "GMNotes": "{\n  \"id\": \"10514\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "{\n  \"id\": \"10514a\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "GUID": "439eeb",
               "Name": "Card",
               "Nickname": "Rail Tunnel",
@@ -34244,7 +34244,7 @@
                 }
               },
               "Description": "Rail.",
-              "GMNotes": "{\n  \"id\": \"10513\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"victory\": 1,\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "{\n  \"id\": \"10513b\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"victory\": 1,\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "GUID": "fe4be1",
               "Name": "Card",
               "Nickname": "Rail Tunnel",
@@ -34274,7 +34274,7 @@
                 }
               },
               "Description": "Rail.",
-              "GMNotes": "{\n  \"id\": \"10513\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"victory\": 1,\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "{\n  \"id\": \"10513a\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"victory\": 1,\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "GUID": "b96a36",
               "Name": "Card",
               "Nickname": "Rail Tunnel",
@@ -34304,7 +34304,7 @@
                 }
               },
               "Description": "Rail.",
-              "GMNotes": "{\n  \"id\": \"10512\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 3,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "{\n  \"id\": \"10512b\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 3,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "GUID": "02da12",
               "Name": "Card",
               "Nickname": "Rail Tunnel",
@@ -34334,7 +34334,7 @@
                 }
               },
               "Description": "Rail.",
-              "GMNotes": "{\n  \"id\": \"10512\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 3,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "{\n  \"id\": \"10512a\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 3,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "GUID": "8a4fb0",
               "Name": "Card",
               "Nickname": "Rail Tunnel",
@@ -34364,7 +34364,7 @@
                 }
               },
               "Description": "Rail.",
-              "GMNotes": "{\n  \"id\": \"10511\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "{\n  \"id\": \"10511b\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "GUID": "8e5e26",
               "Name": "Card",
               "Nickname": "Rail Tunnel",
@@ -34394,7 +34394,7 @@
                 }
               },
               "Description": "Rail.",
-              "GMNotes": "{\n  \"id\": \"10511\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "{\n  \"id\": \"10511a\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "GUID": "ad78d7",
               "Name": "Card",
               "Nickname": "Rail Tunnel",
@@ -34424,7 +34424,7 @@
                 }
               },
               "Description": "Rail.",
-              "GMNotes": "{\n  \"id\": \"10510\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "{\n  \"id\": \"10510b\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "GUID": "a83f99",
               "Name": "Card",
               "Nickname": "Rail Tunnel",
@@ -34454,7 +34454,7 @@
                 }
               },
               "Description": "Rail.",
-              "GMNotes": "{\n  \"id\": \"10510\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "{\n  \"id\": \"10510a\",\n  \"type\": \"Location\",\n  \"traits\": \"Rail.\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "GUID": "f7f51d",
               "Name": "Card",
               "Nickname": "Rail Tunnel",
