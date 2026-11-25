@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-11-06 18:36:05",
+    "last_updated": "2026-11-22 14:57:54",
     "language": "Polish",
-    "overall_completion": "94.68 %",
-    "total_found": 5909,
-    "total_required": 6241,
+    "overall_completion": "94.27 %",
+    "total_found": 5910,
+    "total_required": 6269,
     "orphan_count": 0,
     "missing_id_count": 0
   },
@@ -22,16 +22,47 @@
       "missing": []
     },
     "campaign\\Edge of the Earth": {
-      "completion": "99.57 %",
-      "stats": "229 / 230",
-      "missing": [
-        "CL0802"
-      ]
+      "completion": "100.00 %",
+      "stats": "230 / 230",
+      "missing": []
     },
     "campaign\\Night of the Zealot": {
       "completion": "100.00 %",
       "stats": "47 / 47",
       "missing": []
+    },
+    "campaign\\Power of the Dreamlands": {
+      "completion": "0.00 %",
+      "stats": "0 / 27",
+      "missing": [
+        "14002",
+        "14003",
+        "14008",
+        "14011",
+        "14013",
+        "14016",
+        "14017",
+        "14021",
+        "14026",
+        "14028",
+        "14030",
+        "14033",
+        "14034",
+        "14040",
+        "14042",
+        "14043",
+        "14045",
+        "14048",
+        "14052",
+        "14054",
+        "14055",
+        "14057",
+        "14060",
+        "14061",
+        "14067",
+        "14070",
+        "14071"
+      ]
     },
     "campaign\\Return to Night of the Zealot": {
       "completion": "100.00 %",
@@ -238,6 +269,11 @@
         "90092",
         "90093"
       ]
+    },
+    "playercards\\Guardians of the Abyss": {
+      "completion": "100.00 %",
+      "stats": "4 / 4",
+      "missing": []
     },
     "playercards\\Hunting for Answers": {
       "completion": "0.00 %",
@@ -481,8 +517,8 @@
       ]
     },
     "playercards\\Standalone": {
-      "completion": "94.12 %",
-      "stats": "48 / 51",
+      "completion": "93.62 %",
+      "stats": "44 / 47",
       "missing": [
         "89019",
         "89020",
@@ -615,13 +651,14 @@
       ]
     },
     "scenario\\Challenge Scenario - Enthralling Encore": {
-      "completion": "87.10 %",
-      "stats": "27 / 31",
+      "completion": "84.38 %",
+      "stats": "27 / 32",
       "missing": [
         "90094",
         "90095",
         "90096",
-        "90097"
+        "90097",
+        "CG-EnthrallingEncore"
       ]
     },
     "scenario\\Challenge Scenario - Laid to Rest": {

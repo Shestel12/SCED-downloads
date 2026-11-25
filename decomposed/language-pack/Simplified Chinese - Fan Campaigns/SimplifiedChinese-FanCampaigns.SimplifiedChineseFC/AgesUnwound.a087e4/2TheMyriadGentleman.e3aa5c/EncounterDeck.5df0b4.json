@@ -12,20 +12,14 @@
     "加速腐朽.491258",
     "回憶化為塵埃.1a70c5",
     "回憶化為塵埃.1a70c5",
-    "回憶化為塵埃.1a70c5",
-    "提供力量.1e4b6f",
-    "提供力量.1e4b6f",
-    "伊斯觀測者.4c04b5",
-    "伊斯觀測者.4c04b5",
-    "上鎖的門.4904d0",
-    "上鎖的門.4904d0"
+    "回憶化為塵埃.1a70c5"
   ],
   "ContainedObjects_path": "EncounterDeck.5df0b4",
   "CustomDeck": {
     "92234": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1699528634398680476/FE126C3E21593398897E3C691A0AEA8D9B73A614/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11490039068840950296/BA421080E6C0145E823AFA66D7F53C962AD94AEB/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11542444710484171780/6382CABF5D0B3590EEE13F308F7F8E500E5677E5/",
       "NumHeight": 4,
       "NumWidth": 6,
       "Type": 0
@@ -33,7 +27,7 @@
     "92227": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1699528634398680476/FE126C3E21593398897E3C691A0AEA8D9B73A614/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12812206528703480164/773CED4ED7A297F87C72D50C7F8FC8047A48D699/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14550155100428501431/627CAEC09BBFE4531BD334251A3B04455CAA6963/",
       "NumHeight": 5,
       "NumWidth": 5,
       "Type": 0
@@ -41,17 +35,9 @@
     "92226": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1699528634398680476/FE126C3E21593398897E3C691A0AEA8D9B73A614/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11768947346435455281/3C636B828F523BBBF86D8094945F49D1789140D3/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14542306334911260657/84AA77EDF467E104DF791DEC7FE70D15DF8722A5/",
       "NumHeight": 3,
       "NumWidth": 3,
-      "Type": 0
-    },
-    "100": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16719725216973848065/D0B4773F3A4F59E945693425CE45F8580C444509/",
-      "NumHeight": 4,
-      "NumWidth": 7,
       "Type": 0
     }
   },
@@ -68,13 +54,7 @@
     9222606,
     9222723,
     9222723,
-    9222723,
-    10021,
-    10021,
-    10020,
-    10020,
-    10017,
-    10017
+    9222723
   ],
   "GUID": "5df0b4",
   "Name": "Deck",

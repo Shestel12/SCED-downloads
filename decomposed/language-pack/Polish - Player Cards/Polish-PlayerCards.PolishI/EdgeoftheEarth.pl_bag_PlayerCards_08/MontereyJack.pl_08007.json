@@ -1,10 +1,10 @@
 {
-  "CardID": 11002,
+  "CardID": 10702,
   "CustomDeck": {
-    "110": {
+    "107": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/15434923173964136730/B74269CA1F81E3477C9D2DD2D893B053CC896123/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11780838553738882893/8E74DFDE9E059DEFBDB37D9067467410275623AE/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/9251691652047412239/1AB937CDCB4BD44EC6F7E3AE6E3867E57CAA3488/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14541711445046340460/6343F22808165CD736F1A5253FF7F9DA23FFF4E0/",
       "NumHeight": 1,
       "NumWidth": 9,
       "Type": 0,
@@ -19,6 +19,7 @@
   "Nickname": "Monterey Jack",
   "SidewaysCard": true,
   "Transform": {
+    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

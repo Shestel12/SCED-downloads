@@ -1,0 +1,31 @@
+{
+  "CardID": 609400,
+  "CustomDeck": {
+    "6094": {
+      "BackIsHidden": true,
+      "BackURL": "https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/372b.png?raw=true",
+      "FaceURL": "https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/372a.png?raw=true",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Shrine of the Yukihyo",
+  "GMNotes_path": "TheGhostsofOnigawaCampaignExpansion.c6cf48/ScenarioVITheEndofAugust.64f036/FrozenAltar.97a268.gmnotes",
+  "GUID": "97a268",
+  "HideWhenFaceDown": true,
+  "Name": "CardCustom",
+  "Nickname": "Frozen Altar",
+  "Tags": [
+    "Location",
+    "ScenarioCard"
+  ],
+  "Transform": {
+    "rotY": 270,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

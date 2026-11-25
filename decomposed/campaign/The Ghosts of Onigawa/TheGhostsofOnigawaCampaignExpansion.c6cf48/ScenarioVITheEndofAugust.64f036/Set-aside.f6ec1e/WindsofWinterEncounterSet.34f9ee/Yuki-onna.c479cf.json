@@ -1,0 +1,28 @@
+{
+  "CardID": 8612700,
+  "CustomDeck": {
+    "86127": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+      "FaceURL": "https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/408a.png?raw=true",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "The Lunar Queen",
+  "GMNotes_path": "TheGhostsofOnigawaCampaignExpansion.c6cf48/ScenarioVITheEndofAugust.64f036/Set-aside.f6ec1e/WindsofWinterEncounterSet.34f9ee/Yuki-onna.c479cf.gmnotes",
+  "GUID": "c479cf",
+  "Name": "CardCustom",
+  "Nickname": "Yuki-onna",
+  "Tags": [
+    "ScenarioCard"
+  ],
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

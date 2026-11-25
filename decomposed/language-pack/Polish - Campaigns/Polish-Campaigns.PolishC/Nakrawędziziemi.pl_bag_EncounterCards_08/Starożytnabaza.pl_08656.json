@@ -1,10 +1,10 @@
 {
-  "CardID": 12810,
+  "CardID": 11410,
   "CustomDeck": {
-    "128": {
+    "114": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/13121507263106447861/775F8DAF6591FC0B752534568296951B2F1CA640/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/10178926722517252369/FAE14D4691DB42E5F1FF0C87D8B459CD1C39006D/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/12857672403103483973/F8329F80ACD12E73A4CB8EC3A346C90EF3DCDF36/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12751785968993147400/5BC302B189A85E56D76D41A703CB77F4BBED1484/",
       "NumHeight": 3,
       "NumWidth": 10,
       "Type": 0,
@@ -17,6 +17,7 @@
   "Name": "Card",
   "Nickname": "Starożytna baza",
   "Transform": {
+    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1
